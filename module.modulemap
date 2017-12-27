@@ -1,0 +1,4 @@
+module CCairo [system] {
+  header "module.h"
+  export *
+}
